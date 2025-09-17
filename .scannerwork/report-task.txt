@@ -1,0 +1,6 @@
+projectKey=MySpringApp
+serverUrl=http://localhost:7070
+serverVersion=25.4.0.105899
+dashboardUrl=http://localhost:7070/dashboard?id=MySpringApp
+ceTaskId=6d1f4531-961b-4715-b8a8-74d1e933bdec
+ceTaskUrl=http://localhost:7070/api/ce/task?id=6d1f4531-961b-4715-b8a8-74d1e933bdec
